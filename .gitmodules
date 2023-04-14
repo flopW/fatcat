@@ -1,0 +1,3 @@
+[submodule "gulp-2022"]
+	path = gulp-2022
+	url = https://github.com/flopW/fatcat.git
